@@ -3,3 +3,5 @@ Coffee Menu:
     1. Regulare Coffee is 2 $
 
     2. Black Coffee is 1 $.
+
+    3. Black Coffee with Jaggery is 1.5 $.

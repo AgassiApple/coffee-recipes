@@ -7,3 +7,5 @@ Coffee Menu:
     3. Black Coffee with Jaggery is 1.5 $.
 
     4. Coffe with almond milk and sugar is 2 $.
+
+    5. Black Coffe with Honey and lemon is 2.5 $.

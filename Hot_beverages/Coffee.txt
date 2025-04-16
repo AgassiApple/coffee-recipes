@@ -2,7 +2,7 @@ Coffee Menu:
 
     1. Regulare Coffee is 2 $
 
-    2. Black Coffee is 0.5 $.
+    2. Black Coffee is 0.6 $.
 
     3. Black Coffee with Jaggery is 1.5 $.
 
